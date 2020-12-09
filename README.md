@@ -4,13 +4,14 @@
 Proyecto de aprendizaje realizado en el curso Desarrollo FrontEnd con React, gracias a la iniciativa de capacitación en tecnologías digitales por el Cluster Tecnológico de Catamarca (CTC).
 
 ⚙️ Objetivos
-Usar y profundizar lo básico de React
-Aprender a usar Styled Components
-Emplear Fetch API's y ProtoTypes
+
+- Usar y profundizar lo básico de React
+- Aprender a usar Styled Components
+- Emplear Fetch API's y ProtoTypes
 
 ✔️ Tecnologías
-Javascript
-React
+- Javascript
+- React
 
 -----------------------------------------------------------
 
